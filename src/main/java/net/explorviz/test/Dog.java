@@ -1,5 +1,7 @@
 package net.explorviz.test;
 
+import net.explorviz.test.Animal;
+import net.explorviz.test.Cat;
 import java.util.List;
 import java.util.ArrayList;
 
