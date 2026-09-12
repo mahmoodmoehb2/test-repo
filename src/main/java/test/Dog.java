@@ -1,7 +1,8 @@
-package net.explorviz.test;
+package test;
 
 import net.explorviz.test.Animal;
-import net.explorviz.test.Cat;
+import net.explorviz.test.Speakable;
+
 import java.util.List;
 import java.util.ArrayList;
 
